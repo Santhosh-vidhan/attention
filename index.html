@@ -19,13 +19,15 @@
         \[attention({\color{red} q}, {\color{green} k}, {\color{blue} v}) = {softmax({{\color{red} q} {\color{green} k^T} \over \sqrt{d_{k}}})} {\color{blue} v}.\]
       </p>
     </div>
-    <pre>
-
-      <code class="python">def attention(q, k, v):
-  # for pytorch
-  scale = q.shape[-1] ** -0.5
-  return (q @ k.t() * scale).softmax(dim = -1) @ v
-</code>
-    </pre>
+    <div id="code">
+      <div style="width:600px;margin: 0 auto;">
+        <pre>
+          <code class="python">def attention(q, k, v):
+    # for pytorch
+    scale = q.shape[-1] ** -0.5
+    return (q @ k.t() * scale).softmax(dim = -1) @ v</code>
+        </pre>
+      </div>
+    </div>
   </body>
 </html>
