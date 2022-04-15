@@ -3,12 +3,29 @@
     <title>Attention</title>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-  </head>
+
+    <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/styles/default.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.3/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+</head>
+<body>
   <body>
     <div style="text-align: center;">
       <h3>Attention</h3>
     </div>
+    <div id="equation">
+      <p>
+        \[attention({\color{red} q}, {\color{green} k}, {\color{blue} v}) = {softmax({{\color{red} q} {\color{green} k^T} \over \sqrt{d_{k}}})} {\color{blue} v}.\]
+      </p>
+    </div>
+    <pre>
 
-    <p>\[attention({\color{red} q}, {\color{green} k}, {\color{blue} v}) = {softmax({{\color{red} q} {\color{green} k^T} \over \sqrt{d_{k}}})} {\color{blue} v}.\]</p>
+      <code class="python">def attention(q, k, v):
+  # for pytorch
+  scale = q.shape[-1] ** -0.5
+  return (q @ k.t() * scale).softmax(dim = -1) @ v
+</code>
+    </pre>
   </body>
 </html>
