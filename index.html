@@ -1,6 +1,7 @@
 <html>
   <head>
     <title>Attention</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
@@ -20,12 +21,12 @@
       </p>
     </div>
     <div id="code">
-      <div style="width:600px;margin: 0 auto;">
+      <div style="min-width:360px; max-width:500px; margin:0 auto;">
         <pre>
           <code class="python">def attention(q, k, v):
     # for pytorch
-    scale = q.shape[-1] ** -0.5
-    return (q @ k.t() * scale).softmax(dim = -1) @ v</code>
+    s = q.shape[-1] ** -0.5
+    return (q @ k.t() * s).softmax(dim=-1) @ v</code>
         </pre>
       </div>
     </div>
