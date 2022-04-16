@@ -1,6 +1,6 @@
 ## Attention (wip)
 
-This repository will house a visualization that will attempt to convey instant enlightenment of how <a href="https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/">Attention</a> works.
+This repository will house a visualization that will attempt to convey instant enlightenment of how <a href="https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/">Attention</a> works, in the field of artificial intelligence.
 
 ## What has Attention accomplished?
 
