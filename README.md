@@ -17,6 +17,7 @@ This repository will house a visualization that will attempt to convey instant e
 - [Text to Video](https://arxiv.org/abs/2111.12417)
 - [Code Generation](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 - [Language+](https://arxiv.org/abs/2204.02311)
+- [Protein Generation](https://arxiv.org/abs/2004.03497)
 
 Will keep adding to this list as time goes on
 
