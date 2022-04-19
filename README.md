@@ -20,6 +20,9 @@ In my mind, one good intuitive visualization can bring about more insight and un
 - [Code Generation](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 - [Language+](https://arxiv.org/abs/2204.02311)
 - [Protein Generation](https://arxiv.org/abs/2004.03497)
+- [Multimodal Model](https://arxiv.org/abs/2111.12993)
+- [Video Understanding](https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/)
+- [Heart Disease Classification](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01546-2)
 
 Will keep adding to this list as time goes on
 
