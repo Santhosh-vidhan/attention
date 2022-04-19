@@ -30,6 +30,10 @@ Will keep adding to this list as time goes on
 - [Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 - [Sasha Rush](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
+## Is it all we need?
+
+No one really knows. All I know is, if we were to dethrone attention with a better algorithm, it is over. Part of what motivates me to do some scalable 21st century teaching is the hope maybe someone can find a way to improve on it, or find its replacement. It just takes one discovery!
+
 ## Appreciation
 
 Large thanks goes to <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a> for showing us that complex mathematics can be taught with such elegance and potency through visualizations
