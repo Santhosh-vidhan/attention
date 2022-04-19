@@ -1,6 +1,8 @@
 ## Attention (wip)
 
-This repository will house a visualization that will attempt to convey instant enlightenment of how <a href="https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/">Attention</a> works, in the field of artificial intelligence.
+This repository will house a visualization that will attempt to convey instant enlightenment of how <a href="https://www.quantamagazine.org/will-transformers-take-over-artificial-intelligence-20220310/">Attention</a> works, in the field of artificial intelligence. Obviously I believe this algorithm to be one of the most important developments in the history of deep learning. We can possibly use it to solve, well, everything.
+
+In my mind, one good intuitive visualization can bring about more insight and understanding than long highly paid tutoring / courses.
 
 ## What has Attention accomplished?
 
