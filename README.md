@@ -23,6 +23,7 @@ In my mind, one good intuitive visualization can bring about more insight and un
 - [Multimodal Model](https://arxiv.org/abs/2111.12993)
 - [Video Understanding](https://ai.facebook.com/blog/timesformer-a-new-architecture-for-video-understanding/)
 - [Heart Disease Classification](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01546-2)
+- [Weather Forecasting](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
 
 Will keep adding to this list as time goes on
 
