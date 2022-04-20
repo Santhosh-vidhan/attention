@@ -55,3 +55,14 @@ Large thanks goes to <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b1
     primaryClass = {cs.CL}
 }
 ```
+
+```bibtex
+@article{Bahdanau2015NeuralMT,
+    title   = {Neural Machine Translation by Jointly Learning to Align and Translate},
+    author  = {Dzmitry Bahdanau and Kyunghyun Cho and Yoshua Bengio},
+    journal = {CoRR},
+    year    = {2015},
+    volume  = {abs/1409.0473}
+}
+```
+
