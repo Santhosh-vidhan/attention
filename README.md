@@ -33,7 +33,8 @@ Will keep adding to this list as time goes on
 - [Peter Bloem](http://peterbloem.nl/blog/transformers)
 - [Jay Alammar](http://jalammar.github.io/illustrated-transformer/)
 - [Sasha Rush](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
-
+- [Lilian Weng](https://lilianweng.github.io/posts/2018-06-24-attention/)
+- 
 ## Is it all we need?
 
 No one really knows. All I know is, if we were to dethrone attention with a better algorithm, it is over. Part of what motivates me to do some scalable 21st century teaching is the hope maybe someone can find a way to improve on it, or find its replacement. It just takes one discovery!
