@@ -25,6 +25,7 @@ In my mind, one good intuitive visualization can bring about more insight and un
 - [Heart Disease Classification](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01546-2)
 - [Weather Forecasting](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
 - [Text to Speech](https://github.com/neonbjb/tortoise-tts)
+- [Few-Shot Visual Question Answering](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 
 Will keep adding to this list as time goes on
 
