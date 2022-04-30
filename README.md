@@ -8,6 +8,13 @@ This repository will house a visualization that will attempt to convey instant e
 
 In my mind, one good intuitive visualization can bring about more insight and understanding than long highly paid tutoring / courses.
 
+## ELI5 (wip)
+
+I'm going to attempt an ELI5 explanation, even though attention has many interpretations, ranging from <a href="https://mcbal.github.io/post/an-energy-based-perspective-on-attention-mechanisms-in-transformers/">physics based intepretations</a> to <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">speculations on biological plausibility</a>.
+
+*<fill in once thoughts are distilled>*
+
+
 ## What has Attention accomplished?
 
 - [Protein Folding](https://www.nature.com/articles/s41586-021-03819-2)
@@ -72,3 +79,4 @@ Large thanks goes to <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b1
 }
 ```
 
+[♥](https://www.youtube.com/watch?v=GUo2XuqMcCU)
