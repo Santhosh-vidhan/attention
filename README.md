@@ -37,6 +37,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Weather Forecasting](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html)
 - [Text to Speech](https://github.com/neonbjb/tortoise-tts)
 - [Few-Shot Visual Question Answering](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
+- [Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 
 Will keep adding to this list as time goes on
 
