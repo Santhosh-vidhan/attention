@@ -28,6 +28,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Gene Expression](https://www.nature.com/articles/s41592-021-01252-x)
 - [Text to Image](https://openai.com/blog/dall-e/)
 - [Text to Video](https://arxiv.org/abs/2111.12417)
+- [Text to Video 2](https://github.com/THUDM/CogVideo)
 - [Code Generation](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
 - [Language+](https://arxiv.org/abs/2204.02311)
 - [Protein Generation](https://arxiv.org/abs/2004.03497)
