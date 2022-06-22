@@ -27,6 +27,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Theorem Proving](https://arxiv.org/abs/2009.03393)
 - [Gene Expression](https://www.nature.com/articles/s41592-021-01252-x)
 - [Text to Image](https://openai.com/blog/dall-e/)
+- [Attention-only Text to Image](https://parti.research.google/)
 - [Text to Video](https://arxiv.org/abs/2111.12417)
 - [Text to Video 2](https://github.com/THUDM/CogVideo)
 - [Code Generation](https://www.deepmind.com/blog/competitive-programming-with-alphacode)
