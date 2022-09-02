@@ -41,6 +41,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Few-Shot Visual Question Answering](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model)
 - [Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 - [Audio Generation from Raw Waveform](https://arxiv.org/abs/2206.08297)
+- [Sample Efficient World Model](https://arxiv.org/abs/2209.00588)
 
 Will keep adding to this list as time goes on
 
