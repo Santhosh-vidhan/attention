@@ -42,6 +42,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Generalist Agent](https://www.deepmind.com/publications/a-generalist-agent)
 - [Audio Generation from Raw Waveform](https://arxiv.org/abs/2206.08297)
 - [Sample Efficient World Model](https://arxiv.org/abs/2209.00588)
+- [Audio / Speech Generation](https://google-research.github.io/seanet/audiolm/examples/)
 
 Will keep adding to this list as time goes on
 
