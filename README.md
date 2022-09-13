@@ -43,6 +43,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Audio Generation from Raw Waveform](https://arxiv.org/abs/2206.08297)
 - [Sample Efficient World Model](https://arxiv.org/abs/2209.00588)
 - [Audio / Speech Generation](https://google-research.github.io/seanet/audiolm/examples/)
+- [Nucleic Acid / Protein Binding](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1)
 
 Will keep adding to this list as time goes on
 
