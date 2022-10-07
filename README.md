@@ -44,6 +44,7 @@ I'm going to attempt an ELI5 explanation, even though attention has many interpr
 - [Sample Efficient World Model](https://arxiv.org/abs/2209.00588)
 - [Audio / Speech Generation](https://google-research.github.io/seanet/audiolm/examples/)
 - [Nucleic Acid / Protein Binding](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1)
+- [Generalizable Prompting for Robotic Arm Control](https://twitter.com/DrJimFan/status/1578433493561769984)
 
 Will keep adding to this list as time goes on
 
