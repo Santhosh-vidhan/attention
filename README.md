@@ -8,12 +8,15 @@ This repository will house a visualization that will attempt to convey instant e
 
 In my mind, one good intuitive visualization can bring about more insight and understanding than long highly paid tutoring / courses.
 
-## ELI5 (wip)
+## Why does it work?
 
-I'm going to attempt an ELI5 explanation, even though attention has many interpretations, ranging from <a href="https://mcbal.github.io/post/an-energy-based-perspective-on-attention-mechanisms-in-transformers/">physics based intepretations</a> to <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">speculations on biological plausibility</a>.
+Attention has many interpretations, ranging from <a href="https://mcbal.github.io/post/an-energy-based-perspective-on-attention-mechanisms-in-transformers/">physics based intepretations</a> to <a href="https://www.youtube.com/watch?v=THIIk7LR9_8">speculations on biological plausibility</a>.
 
-*<fill in once thoughts are distilled>*
+Update: Recently, three papers have concurrently closed in on a connection between self-attention and gradient descent, while investigating in-context learning properties of Transformers!
 
+1. <a href="https://arxiv.org/abs/2212.07677">Transformers learn in-context by gradient descent</a>
+2. <a href="https://arxiv.org/abs/2211.15661">What learning algorithm is in-context learning? Investigations with linear models</a>
+3. <a href="https://arxiv.org/abs/2212.10559v2">Why Can GPT Learn In-Context? Language Models Secretly Perform Gradient Descent as Meta-Optimizers</a>
 
 ## What has Attention accomplished?
 
