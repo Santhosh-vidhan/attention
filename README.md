@@ -48,6 +48,7 @@ Update: Recently, three papers have concurrently closed in on a connection betwe
 - [Audio / Speech Generation](https://google-research.github.io/seanet/audiolm/examples/)
 - [Nucleic Acid / Protein Binding](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1)
 - [Generalizable Prompting for Robotic Arm Control](https://twitter.com/DrJimFan/status/1578433493561769984)
+- [Zero-shot Text to Speech](https://valle-demo.github.io/)
 
 Will keep adding to this list as time goes on
 
