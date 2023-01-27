@@ -51,6 +51,7 @@ Update: Recently, three papers have concurrently closed in on a connection betwe
 - [Zero-shot Text to Speech](https://valle-demo.github.io/)
 - [Music Generation](https://google-research.github.io/seanet/musiclm/examples/)
 - [Designing Molecular Scissors for DNA](https://www.nature.com/articles/s41587-022-01624-4)
+- [Nucleic Language Model](https://www.biorxiv.org/content/10.1101/2023.01.11.523679v1)
 
 Will keep adding to this list as time goes on
 
