@@ -50,6 +50,7 @@ Update: Recently, three papers have concurrently closed in on a connection betwe
 - [Generalizable Prompting for Robotic Arm Control](https://twitter.com/DrJimFan/status/1578433493561769984)
 - [Zero-shot Text to Speech](https://valle-demo.github.io/)
 - [Music Generation](https://google-research.github.io/seanet/musiclm/examples/)
+- [Designing Molecular Scissors for DNA](https://www.nature.com/articles/s41587-022-01624-4)
 
 Will keep adding to this list as time goes on
 
