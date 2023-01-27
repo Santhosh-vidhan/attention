@@ -26,7 +26,7 @@ Update: Recently, three papers have concurrently closed in on a connection betwe
 - [Image Segmentation](https://arxiv.org/abs/2005.12872)
 - [Speech Recognition](https://arxiv.org/abs/2203.15095)
 - [Symbolic Mathematics](https://arxiv.org/abs/1912.01412)
-- [Music Generation](https://openai.com/blog/musenet/)
+- [Midi Generation](https://openai.com/blog/musenet/)
 - [Theorem Proving](https://arxiv.org/abs/2009.03393)
 - [Gene Expression](https://www.nature.com/articles/s41592-021-01252-x)
 - [Text to Image](https://openai.com/blog/dall-e/)
@@ -49,6 +49,7 @@ Update: Recently, three papers have concurrently closed in on a connection betwe
 - [Nucleic Acid / Protein Binding](https://www.biorxiv.org/content/10.1101/2022.09.09.507333v1)
 - [Generalizable Prompting for Robotic Arm Control](https://twitter.com/DrJimFan/status/1578433493561769984)
 - [Zero-shot Text to Speech](https://valle-demo.github.io/)
+- [Music Generation](https://google-research.github.io/seanet/musiclm/examples/)
 
 Will keep adding to this list as time goes on
 
